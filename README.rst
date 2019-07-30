@@ -1,3 +1,8 @@
+TODO
+--------
+- fix line placement (sometimes it inserts line in wrong tab page with wrong opened buffer)
+- replace Ale calling with optional callbacks (that can runs isort, black, coc commands...)
+
 Overview
 --------
 Vim script to help adding import statements in Python modules.
